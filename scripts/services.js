@@ -1,7 +1,8 @@
 'use strict';
 
 angular.module('condominiumApp')
-    .constant("baseURL", "http://localhost:40010/")
+    .constant("baseURL", "http://imaginaction.net.br:40010/")
+    //.constant("baseURL", "http://localhost:40010/")
     //.constant("baseURL", "http://localhost:3000/")
     //.constant("baseURL", "https://localhost:3443/")
 
